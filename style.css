@@ -1,0 +1,127 @@
+.nav-link{
+
+    color: black;
+}
+.buy-now-button{
+
+    background-image: linear-gradient(45deg, black 0% , black 100%) ;
+    color: white;
+    padding: 10px 20px ;
+    border: 1px;
+    border-radius: 10px;
+    border: solid blue 2px;
+
+}
+.navigation-degine{
+
+    margin-bottom: 100px;
+   
+   
+}
+
+.banner-background-degine{
+
+    background-image: url(images/bg-1.png);
+
+    background-repeat: no-repeat;
+    background-position:center;
+    height: 550px;
+    padding: 100px;
+}
+
+
+body{
+
+    background-color: #b0b5b6ee;
+}
+
+.my-button-style{
+
+   color: red;
+   width: 10px;
+}
+.other-bacground{
+
+    background-image: url(images/bg-2.png);
+   background-position-x: -20px;
+    background-repeat: no-repeat;
+    padding: 200px
+   
+}
+.see-all{
+    color: rgb(231, 17, 17);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.another-in-div-see-all{
+    margin-left: 95%;
+    padding-bottom: 10px;
+}
+
+.product-style{
+    text-align: center;
+}
+.product-button{
+   position: relative;
+   left: 35%;
+ 
+
+}
+.card{
+    background-color: rgb(204, 197, 199);
+    border: none;
+    box-shadow: 10px 5px 10px rgba(197, 233, 224, 0.63);
+    border-radius: 20px;
+    
+}
+
+.Laptop-paragraph{
+
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.laptop-see-all{
+    margin-left: 90%;
+    margin-bottom: 20px;
+   
+   
+}
+.catagoris-style
+{
+
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+   
+}
+#underline-effect{
+   
+   text-decoration: underline;
+   
+}
+
+.catagory-product-style{
+
+    
+    background-color: white;
+    padding-bottom: 200px;
+    padding-right: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgb(22, 8, 2);
+    
+
+}
+
+.catagory-product-style img{
+    position: relative;
+    left: 80px ;
+    top: 100px;
+}
+.product-text{
+
+    position: relative;
+   left:110px;
+   top: 300px;
+
+}
